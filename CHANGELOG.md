@@ -2,8 +2,10 @@
 
 ## Current - Work in progress
 ### Merges
-
+*  Merge pull request #2 from leoviana00/feature/setup/project [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/4a0b1123cd7b64ea7069f3b2bb9757fa225b00c0)
 ### Commits
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/4c43d77f98e67b9b10bc342cf4255fb321c866cc)
+*  feat(setup): criando o setup do projeto [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/6712045199da549786d7987f6a590295d11670d7)
 
 
 
