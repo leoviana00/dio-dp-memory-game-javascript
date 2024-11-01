@@ -2,10 +2,15 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #3 from leoviana00/feature/style/project [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/c60d29ccb52247fb8d86cbb49cb2edb2b67d5e4f)
 *  Merge pull request #2 from leoviana00/feature/setup/project [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/4a0b1123cd7b64ea7069f3b2bb9757fa225b00c0)
 ### Commits
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/4c43d77f98e67b9b10bc342cf4255fb321c866cc)
 *  feat(setup): criando o setup do projeto [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/6712045199da549786d7987f6a590295d11670d7)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/a28157ee3c0f00a1c8ccf3b07f96b38cecabd759)
+*  feat(style): criado o reset css [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/2930e19b6df74dc875de48d2208182153b770c0e)
+*  feat(style): add style inicial ao projeto [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/4926b37af576cb5a9b4e87539ca7328c773aa35a)
+*  feat(style): estilizacao do game [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/6c05e4eff6324a4123751333cca9df9193970cc8)
 
 
 
