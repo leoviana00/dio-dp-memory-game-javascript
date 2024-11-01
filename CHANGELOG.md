@@ -2,6 +2,7 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #7 from leoviana00/feature/pokemon [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/f31b596db2e538fa0773d1ee27cc02ceb06a2509)
 *  Merge pull request #6 from leoviana00/feature/pokemon [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/f9e629dbb1e71998018845770f186d105191db20)
 *  Merge pull request #5 from leoviana00/feature/docs [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/76a82affa9c19b5794b1cd4dfd9ed48647c59238)
 *  Merge pull request #4 from leoviana00/feature/cards/dinamicos [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/08175fb7f792be9639f7e0cadfc7857161553536)
@@ -21,6 +22,8 @@
 *  docs(game): documentacao basica do projeto [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/b2ea294cfc41253ea543fffd63db5be76ec93829)
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/5bfa17151dd33ba068ca9c6c2b63e7fcaebc1d1b)
 *  feat(game): ajustando para poke memory e add sons [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/55454ca0750278985cb9f42bf33ba0f5b6d28318)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/b9878689f9f6f16ca226ba3b26fcd33f3896fd60)
+*  docs(game): pontos de melhorias do projeto [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/53cfdd249049118087a28ac42f29439d260d243f)
 
 
 
