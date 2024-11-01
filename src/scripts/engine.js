@@ -1,21 +1,3 @@
-// const emojis = [
-//     "👻",
-//     "👻",
-//     "👾",
-//     "👾",
-//     "🙊",
-//     "🙊",
-//     "🤖",
-//     "🤖",
-//     "🌱",
-//     "🌱",
-//     "🎲",
-//     "🎲",
-//     "🥋",
-//     "🥋",
-//     "🐶",
-//     "🐶",
-// ];
 
 const emojis = [
     "<img alt='javascript' src='./src/data/poke_1.gif'>",
@@ -82,22 +64,5 @@ function checkMatch(){
     if(document.querySelectorAll(".boxMatch").length === emojis.length){
         alert("Você venceu!")
     }
-
-    // if (document.querySelectorAll(".boxMatch").length === emojis.length) {
-    //     Swal.fire({
-    //       title: "Parabéns!",
-    //       text: "Você é crânio de verdade...",
-    //       imageUrl: "https://media.giphy.com/media/clRgLjk8KPpySb9LnF/giphy.gif",
-    //       imageWidth: 300,
-    //       imageHeight: 250,
-    //       color: "rgba(0,0,123)",
-    //       backdrop: "rgba(0,0,123,0.4)",
-    //       imageAlt: "Custom image",
-    //       confirmButtonText: "Reiniciar"
-    //     }).then(function() {
-    //       window.location.reload();
-    //   });
-    //   }
-
 
 }
