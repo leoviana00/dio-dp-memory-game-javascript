@@ -3,8 +3,9 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #FC1E8A;
     user-select: none;
+    background-image: url("../data/background.png");
+    background-position: 100%;
 }
 
 .container {
@@ -15,12 +16,11 @@ body {
     align-items: center;
     gap: 30px;
     background: linear-gradient(
-        325deg, 
-        #03001E 0%, 
-        #7303C0 30%, 
-        #EC38BC, 
-        #FDEFF9
-        );
+        325deg,
+        #020024 10%,
+        #127902 50%,
+        #29b403 60%
+    );
     padding: 40px 60px;
 }
 
@@ -66,11 +66,18 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #FFF;
+    background-color: #b9ecad;
 
     font-size: 3em;
     transform: rotateY(180deg);
     transition: 0.25s;
+}
+
+.item img {
+    height: 90%;
+    width: 70%; 
+    align-items: center;
+    justify-content: center;
 }
 
 .item::after{
