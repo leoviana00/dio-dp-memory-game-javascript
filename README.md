@@ -30,6 +30,15 @@ Criação de um jogo da memória utilizando `HTML`, `CSS` e `JAVASCRIPT`
   <img alt="GAME" src="./src/data/memory-game.png">
 </p>
 
+## 🐾 Melhorias 
+
+- Melhorar a mensagem de aviso `você venceu`
+- Responsividade
+- Adicionar tempo 
+- Criar um Ranking baseado no tempo de finalização
+
+
+
 ## 📄 Referência
 
 - [CSS Gradient](https://cssgradient.io/)
