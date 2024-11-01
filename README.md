@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <img alt="GAME" src="./src/data/memory-game.png">
+  <img alt="GAME" src="./src/data/pokemon.gif">
 </p>
-
 
 ## 🎯 Projeto
 
@@ -25,6 +24,11 @@ Criação de um jogo da memória utilizando `HTML`, `CSS` e `JAVASCRIPT`
 - cssgradient.io
 - Just Color Picker
 
+## ♟️ Projeto
+
+<p align="center">
+  <img alt="GAME" src="./src/data/memory-game.png">
+</p>
 
 ## 📄 Referência
 
