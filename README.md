@@ -13,16 +13,18 @@
 
 Criação de um jogo da memória utilizando `HTML`, `CSS` e `JAVASCRIPT`
 
-- [Play Game](https://leoviana00.github.io/memory-game-jahttps://leoviana00.github.io/dio-dp-memory-game-javascript/)vascript/)
+- [Play Game](https://leoviana00.github.io/memory-game-jahttps://leoviana00.github.io/dio-dp-memory-game-javascript/)
 
-## 👨‍💻 Tecnicas
+## 👨‍💻 Abordagens
 
 - Manipulação de dom
 - Criação dos cards de forma dinâmica
 - Rotate dos cards
 - Desenho de logica através do css e javascript
-- cssgradient.io
-- Just Color Picker
+
+- Ferramentas:
+  - cssgradient.io
+  - Just Color Picker
 
 ## ♟️ Projeto
 
