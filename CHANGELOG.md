@@ -14,6 +14,8 @@
 *  docs(readme): update [View](https://github.com/leoviana00/memory-game-javascript/commits/bccd653b0eacdbf4ebcf851551bd7c22feedfa23)
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/memory-game-javascript/commits/28e0cece44703d70f1056b01a1a32b66886b1b17)
 *  Update README.md [View](https://github.com/leoviana00/memory-game-javascript/commits/42434b471eefebb0e4fbf73206f0af69c005c56e)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/memory-game-javascript/commits/b27d10d554f02cca754a83f6e6a6843f44280faa)
+*  Update README.md [View](https://github.com/leoviana00/memory-game-javascript/commits/5a71abb2eab580c48b86988020e139badf536872)
 
 
 
