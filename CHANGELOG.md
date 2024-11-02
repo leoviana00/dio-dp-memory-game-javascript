@@ -2,6 +2,7 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #10 from leoviana00/feature/pokemon [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/8c1e97f6d0af3d626b2e8fa899560dbdddbd2a12)
 *  Merge pull request #9 from leoviana00/feature/pokemon [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/51340be2c8a7877677dc53e9428dff5269072400)
 *  Merge pull request #8 from leoviana00/feature/pokemon [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/4463a8c7fc24917ae0fba9c272415f2e57a9e49a)
 *  Merge pull request #7 from leoviana00/feature/pokemon [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/f31b596db2e538fa0773d1ee27cc02ceb06a2509)
@@ -31,6 +32,8 @@
 *  feat(emojis): remoao de emojis não utilizados [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/3bd18113c50e9beeadae42c48026a9d2740d484c)
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/52b8caf4b2b96c4d6357982e9a0124d467d8a526)
 *  feat(style): add opacity container [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/43ce917e27a389ffbfc4a6f42297530ff3a67269)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/d00d6f0c4e674cfad77f7b96263bd61ba764a588)
+*  feat(style): add favicon [View](https://github.com/leoviana00/dio-dp-memory-game-javascript/commits/31beef0e05c0efc633eca9f091cbe5f07456c3ae)
 
 
 
