@@ -13,7 +13,7 @@
 
 Criação de um jogo da memória utilizando `HTML`, `CSS` e `JAVASCRIPT`
 
-- [Play Game](https://leoviana00.github.io/memory-game-jahttps://leoviana00.github.io/dio-dp-memory-game-javascript/)
+- [Play Game](https://leoviana00.github.io/memory-game-javascript/)
 
 ## 👨‍💻 Abordagens
 
