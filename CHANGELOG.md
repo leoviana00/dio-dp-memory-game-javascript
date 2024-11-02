@@ -2,6 +2,14 @@
 
 ## Current - Work in progress
 ### Merges
+
+### Commits
+
+
+
+## 1.0.0 - (2024-11-01)
+### Merges
+*  Merge pull request #14 from leoviana00/feature/pokemon [View](https://github.com/leoviana00/memory-game-javascript/commits/61dab04b3ad5fe5cf403303165919bb906f90d30)
 *  Merge pull request #13 from leoviana00/feature/pokemon [View](https://github.com/leoviana00/memory-game-javascript/commits/1c8efe982c49c35fb8050db40e8a32862592fdf4)
 *  Merge pull request #12 from leoviana00/feature/pokemon [View](https://github.com/leoviana00/memory-game-javascript/commits/8e49117992003a1f0fcbfc1b9954c1555da17923)
 *  Merge pull request #11 from leoviana00/feature/pokemon [View](https://github.com/leoviana00/memory-game-javascript/commits/6640515ed7e98270ede318c52e10cc664632bb42)
@@ -43,6 +51,8 @@
 *  docs(readme): Update readme [View](https://github.com/leoviana00/memory-game-javascript/commits/66d053a1d855de39d81133a34525e68f18f3303d)
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/memory-game-javascript/commits/50087a4b8ec3711d7f0505fc47686aa00f3aeceb)
 *  docs(readme): update link gam [View](https://github.com/leoviana00/memory-game-javascript/commits/9cf44cc4d5c4664fc0812b5e53a3363c89c5b78c)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/memory-game-javascript/commits/ad43cc673c5eb0531e1879728317efb7aa6db70d)
+*  docs(tag): organizando bloco de alteracoes por tag [View](https://github.com/leoviana00/memory-game-javascript/commits/e0ef8fb6359bf6aa53cb502430387b82dcdc38cc)
 
 
 
@@ -55,7 +65,8 @@
 *  feat(configs): templates issues e pull request [View](https://github.com/leoviana00/memory-game-javascript/commits/02abe644875f66c58803474df385e3f71d200bf9)
 ## 📝 Metadata
 ```
-This version -------- 0.0.0
+This version -------- 1.0.0
+0.0.0
 Previous version ---- 0.0.0
-Total commits ------- 1
+Total commits ------- 43
 ```
