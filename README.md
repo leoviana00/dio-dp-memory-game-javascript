@@ -30,6 +30,12 @@ Criação de um jogo da memória utilizando `HTML`, `CSS` e `JAVASCRIPT`
   <img alt="GAME" src="./src/data/memory-game.png">
 </p>
 
+## 🔴 Pokémons
+
+| Bulbasaur                                    | Charmander                                   | Squirtle                                     | Butterfly                                   | Pidgeotto                                    | Pikachu                                   | Mr. Mime                                     | Eevee                                   |
+| -------------------------------------------- | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- | 
+| <img alt="GAME" src="./src/data/poke_1.gif"> | <img alt="GAME" src="./src/data/poke_2.gif"> | <img alt="GAME" src="./src/data/poke_3.gif"> | <img alt="GAME" src="./src/data/poke_4.gif"> | <img alt="GAME" src="./src/data/poke_5.gif"> | <img alt="GAME" src="./src/data/poke_6.gif"> | <img alt="GAME" src="./src/data/poke_7.gif"> | <img alt="GAME" src="./src/data/poke_8.gif"> | 
+
 ## 🐾 Melhorias 
 
 - Melhorar a mensagem de aviso `você venceu`
